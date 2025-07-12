@@ -4,7 +4,7 @@ Budget-alchemy is a web application built with React and Material UI for efficie
 
 ## Demo
 
-![Demo of budget-alchemy](https://gitlab.com/olooeez/budget-alchemy/-/raw/main/img/demo.png)
+![Demo of budget-alchemy](https://github.com/luizvilasboas/budget-alchemy/blob/main/img/demo.png?raw=true)
 
 You can find a live demo by clicking [here](https://budget-alchemy.netlify.app).
 
@@ -23,7 +23,7 @@ Before getting started, make sure you have the following requirements installed 
 Clone this repository to your desired folder on your machine:
 
 ```
-git clone https://gitlab.com/olooeez/budget-alchemy.git
+git clone https://github.com/luizvilasboas/budget-alchemy.git
 ```
 
 ### Step 2: Install dependencies
@@ -51,4 +51,4 @@ If you wish to contribute to this project, feel free to open a merge request. We
 
 ## License
 
-This project is licensed under the [Apache 2.0 License](https://gitlab.com/olooeez/budget-alchemy/-/blob/main/LICENSE). Refer to the LICENSE file for more details.
+This project is licensed under the [Apache 2.0 License](https://github.com/luizvilasboas/budget-alchemy/blob/main/LICENSE). Refer to the LICENSE file for more details.
