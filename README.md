@@ -1,54 +1,67 @@
 # budget-alchemy
 
-Budget-alchemy is a web application built with React and Material UI for efficiently managing financial income and expenses.
+> A web application built with React and Material UI for efficiently managing financial income and expenses.
 
-## Demo
+## About the Project
+
+Budget Alchemy is a web application designed to help you manage your finances effectively. It provides a clean and intuitive interface for tracking income and expenses, helping you gain better control over your budget.
+
+A live demo is available at: **[budget-alchemy.netlify.app](https://budget-alchemy.netlify.app)**
 
 ![Demo of budget-alchemy](https://github.com/luizvilasboas/budget-alchemy/blob/main/img/demo.png?raw=true)
 
-You can find a live demo by clicking [here](https://budget-alchemy.netlify.app).
+## Tech Stack
 
-## Prerequisites
+The main technologies and libraries used in this project are:
 
-Before getting started, make sure you have the following requirements installed on your machine:
+*   [React](https://react.dev/)
+*   [Material UI](https://mui.com/)
 
-1. **Node.js**: Node.js is a platform that allows the execution of JavaScript code on the server. You can download Node.js from the [official website](https://nodejs.org/) and follow the installation instructions for your operating system.
+## Usage
 
-2. **NPM**: NPM is the package manager for Node.js. It is installed along with Node.js and is necessary for installing project dependencies.
+Below are the instructions for you to set up and run the project locally.
 
-## Installation and Development
+### Prerequisites
 
-### Step 1: Clone the repository
+You need to have the following software installed to run this project:
 
-Clone this repository to your desired folder on your machine:
+*   [Node.js](https://nodejs.org/) (which includes npm)
 
-```
-git clone https://github.com/luizvilasboas/budget-alchemy.git
-```
+### Installation and Setup
 
-### Step 2: Install dependencies
+Follow the steps below:
 
-Navigate to the project directory and install the dependencies using NPM:
+1.  **Clone the repository**
+    ```bash
+    git clone https://github.com/luizvilasboas/budget-alchemy.git
+    ```
 
-```
-cd budget-alchemy
-npm install
-```
+2.  **Navigate to the project directory**
+    ```bash
+    cd budget-alchemy
+    ```
 
-### Step 3: Run the application
+3.  **Install dependencies**
+    ```bash
+    npm install
+    ```
 
-After configuring the RapidAPI key, you can start the application locally with the following command:
+### Workflow
 
-```
+After installation, you can run the application locally:
+
+```bash
 npm run start
 ```
 
-The application will be available in your browser at [localhost:3000](http://localhost:3000).
+The application will be available in your browser at `http://localhost:3000`.
 
 ## Contributing
 
-If you wish to contribute to this project, feel free to open a merge request. We welcome all forms of contribution!
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request.
 
 ## License
 
-This project is licensed under the [Apache 2.0 License](https://github.com/luizvilasboas/budget-alchemy/blob/main/LICENSE). Refer to the LICENSE file for more details.
+This project is licensed under the Apache 2.0 License. See the `LICENSE` file for details.
